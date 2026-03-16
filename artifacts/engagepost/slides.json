@@ -1,0 +1,140 @@
+[
+  {
+    "index": 1,
+    "key": "home-intro",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\01-home-intro.png",
+    "narration": "Welcome to EngagePod. EngagePod is an interactive EdTech platform that connects lesson delivery, classroom engagement, assignments, analytics, and family visibility in one workspace."
+  },
+  {
+    "index": 2,
+    "key": "admin-dashboard",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\02-admin-dashboard.png",
+    "narration": "Now we are in the Admin role dashboard. This screen gives school-level visibility into live sessions, assignment momentum, and MCQ outcomes across classrooms."
+  },
+  {
+    "index": 3,
+    "key": "admin-library-overview",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\03-admin-library-overview.png",
+    "narration": "This is the Admin library management module. Admin can upload shared resources once, and those resources become available to teachers in their library workspace."
+  },
+  {
+    "index": 4,
+    "key": "admin-library-created",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\04-admin-library-created.png",
+    "narration": "Here, admin has created a shared library item. This content is now published at workspace level and can be consumed by teachers without duplicate upload."
+  },
+  {
+    "index": 5,
+    "key": "admin-builder",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\05-admin-builder.png",
+    "narration": "This is the Builder module for content design. Admin and teacher can structure interactive lessons, sequence activity blocks, and prepare instruction before live delivery."
+  },
+  {
+    "index": 6,
+    "key": "admin-parents",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\06-admin-parents.png",
+    "narration": "This Parents screen gives admin a family-facing visibility layer, so student progress can be communicated clearly without exposing operational complexity."
+  },
+  {
+    "index": 7,
+    "key": "admin-teacher-module",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\07-admin-teacher-module.png",
+    "narration": "This Teacher management module helps admin monitor staff and keep shared instructional resources consistent across classrooms."
+  },
+  {
+    "index": 8,
+    "key": "admin-profile",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\08-admin-profile.png",
+    "narration": "Every role also includes a Profile screen for account identity and workspace preferences."
+  },
+  {
+    "index": 9,
+    "key": "teacher-dashboard",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\09-teacher-dashboard.png",
+    "narration": "Now we are in the Teacher role dashboard. Teachers use this overview to track classroom readiness, assignment status, and quick learning signals."
+  },
+  {
+    "index": 10,
+    "key": "teacher-library",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\10-teacher-library.png",
+    "narration": "This is the Teacher library workspace. Teachers can create folders and organize reusable materials for faster lesson preparation."
+  },
+  {
+    "index": 11,
+    "key": "teacher-library-integration",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\11-teacher-library-integration.png",
+    "narration": "This demonstrates integration. The library created by admin is now visible in the teacher workspace, so teachers can add it into folders and use it in classroom planning."
+  },
+  {
+    "index": 12,
+    "key": "teacher-builder",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\12-teacher-builder.png",
+    "narration": "In Builder, teachers can craft lesson flow, add activity types, and turn library resources into deliverable classroom sessions."
+  },
+  {
+    "index": 13,
+    "key": "teacher-live",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\13-teacher-live.png",
+    "narration": "The Live module is where teachers run and monitor live class sessions, tracking engagement and response signals in real time."
+  },
+  {
+    "index": 14,
+    "key": "teacher-responses",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\14-teacher-responses.png",
+    "narration": "Student Response studio captures multiple-choice, open-ended, and drawing responses. This gives immediate evidence of understanding during instruction."
+  },
+  {
+    "index": 15,
+    "key": "teacher-analytics",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\15-teacher-analytics.png",
+    "narration": "Analytics helps teachers identify risk and mastery trends, so intervention decisions are based on live evidence rather than delayed reports."
+  },
+  {
+    "index": 16,
+    "key": "teacher-assignments",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\16-teacher-assignments.png",
+    "narration": "Assignments workspace is where teachers publish work, track due progress, and align assessments with classroom goals."
+  },
+  {
+    "index": 17,
+    "key": "teacher-profile",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\17-teacher-profile.png",
+    "narration": "Teacher profile stores identity and preferences used across all modules in the workspace."
+  },
+  {
+    "index": 18,
+    "key": "student-dashboard",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\18-student-dashboard.png",
+    "narration": "Now we are in the Student role dashboard. Students get a focused view of what to complete next and how they are performing."
+  },
+  {
+    "index": 19,
+    "key": "student-live",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\19-student-live.png",
+    "narration": "The student Live screen shows upcoming sessions and supports participation during scheduled learning blocks."
+  },
+  {
+    "index": 20,
+    "key": "student-analytics",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\20-student-analytics.png",
+    "narration": "Student analytics provides personal progress and mastery signals so learners can understand their performance trajectory."
+  },
+  {
+    "index": 21,
+    "key": "student-assignments",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\21-student-assignments.png",
+    "narration": "In Assignments, students attempt published work. This is directly integrated with teacher publishing and grading workflows."
+  },
+  {
+    "index": 22,
+    "key": "student-profile",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\22-student-profile.png",
+    "narration": "Student profile manages account details while preserving role-specific access controls across the platform."
+  },
+  {
+    "index": 23,
+    "key": "summary",
+    "imagePath": "C:\\EngagePod\\artifacts\\engagepost\\frames\\23-summary.png",
+    "narration": "To summarize, EngagePod connects admin publishing, teacher planning and delivery, and student completion in one continuous EdTech workflow."
+  }
+]

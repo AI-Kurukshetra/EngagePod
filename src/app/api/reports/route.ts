@@ -1,0 +1,11 @@
+import { apiOk } from "@/lib/api";
+import { getDashboardSnapshot } from "@/lib/platform-data";
+
+export async function GET() {
+  const snapshot = await getDashboardSnapshot();
+  return apiOk({
+    assignments: snapshot.assignments,
+    assessments: snapshot.assessments,
+    notifications: snapshot.notifications,
+  });
+}
